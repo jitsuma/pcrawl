@@ -1,0 +1,1 @@
+mv Downloads/contacts.csv Desktop/Masters/OnRamp\ Lab/property_outreach/docs/scraper2/scraper/scraper/spiders/pcrawl/export3.csv & cd Desktop/Masters/OnRamp\ Lab/property_outreach/docs/scraper2/scraper/scraper/spiders/pcrawl/ & python geo_expansion_export.py

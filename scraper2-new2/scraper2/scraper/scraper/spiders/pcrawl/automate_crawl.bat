@@ -1,0 +1,1 @@
+activate crawler & move /y "C:\Users\asus\Downloads\contacts.csv" "C:\Users\asus\Desktop\scraper2\scraper\scraper\spiders\pcrawl\export3.csv" & cd C:\Users\asus\Desktop\scraper2\scraper\scraper\spiders\pcrawl & python -m geo_expansion_export.py
